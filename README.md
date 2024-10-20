@@ -12,6 +12,7 @@ torch 2.4.0
 file 1)
 klue_roberta_large.ipynb - 허깅페이스에서 직접 klue-roberta-large 모델 다운로드
 - https://huggingface.co/klue/roberta-large/tree/main
+GPU 3090
 
 file 2)
 collab 버전
